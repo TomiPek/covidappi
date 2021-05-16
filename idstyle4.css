@@ -1,0 +1,82 @@
+img {
+  width: 100%;
+}
+body {
+  text-align: center;
+  background: #f5f8f8;
+}
+
+button {
+  margin-bottom: 15px;
+}
+
+#eka {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 20px;
+  font-family: Impact, Charcoal, sans-serif;
+  background-color: orangered;
+}
+
+#toka {
+  text-align: center;
+  color: blue;
+  font-size: 20px;
+  font-family: Impact, Charcoal, sans-serif;
+  background-color: green;
+}
+
+#kolmas {
+  text-align: center;
+  color: black;
+  font-size: 20px;
+  font-family: Impact, Charcoal, sans-serif;
+  background-color: grey;
+}
+
+#neljas {
+  text-align: center;
+  color: rgb(192, 204, 19);
+  font-size: 20px;
+  font-family: Impact, Charcoal, sans-serif;
+  background-color: #29323c;
+}
+#alertti1 {
+  margin: auto;
+  width: 5%;
+  height: 5%;
+  padding-bottom: 20px;
+}
+#alertti2 {
+  margin: auto;
+  width: 5%;
+  height: 5%;
+  padding-bottom: 20px;
+}
+#alertti3 {
+  margin: auto;
+  width: 5%;
+  height: 5%;
+  padding-bottom: 20px;
+}
+
+table,
+th,
+td {
+  margin: auto;
+  align-items: center;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #01151a;
+  color: gold;
+  border-bottom: solid;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+  border: 1px solid black;
+  border-bottom-color: gold;
+}
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
